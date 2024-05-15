@@ -57,5 +57,5 @@ ________________________________________________________________________________
 
 ## Daniel Ramirez & Ana María Chaves Pérez
 
-[Endpoint TAREA]([https://www.ejemplo.com](https://jwt-for-the-win-daniel-ramirez-ana-chavez.vercel.app/))
+[Endpoint TAREA](https://www.ejemplo.com](https://jwt-for-the-win-daniel-ramirez-ana-chavez.vercel.app/)
 
