@@ -52,3 +52,10 @@ Crear endpoints seguros en el backend utilizando una capa de seguridad basada en
 - Si el repositorio no se marca, se obtendrá una calificación de 0.
 
 ¡Buena suerte con la actividad! 
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Daniel Ramirez & Ana María Chaves Pérez
+
+[Endpoint TAREA]([https://www.ejemplo.com](https://jwt-for-the-win-daniel-ramirez-ana-chavez.vercel.app/))
+
