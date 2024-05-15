@@ -72,10 +72,10 @@ verificacion.use((req, res, next) => {
 
 app.get("/profile", verificacion, (req, res) => {
   res.json({
-    Name: "Armando",
-    Apellido: "Casas",
-    Correo: "armanditoC@gmail.com",
-    Fecha: "01 de abril de 1900",
+    nombre: "Armando",
+    apellido: "Casas",
+    correo_electrónico: "armanditoC@gmail.com",
+    fecha_de_nacimiento: "01 de abril de 1900",
   });
 });
 
@@ -94,35 +94,35 @@ app.get("/contacts", verificacion, (req, res) => {
       nombre: "Bubba",
       apellido: "McSnuggles",
       correo: "bubbamcsnuggles@example.com",
-      fecha_nacimiento: "1985-04-01",
+      fecha_de_nacimiento: "1985-04-01",
     },
     {
       id: 2,
       nombre: "Felicity",
       apellido: "McFluffernutter",
       correo: "felicitysparkle@example.com",
-      fecha_nacimiento: "1990-07-07",
+      fecha_de_nacimiento: "1990-07-07",
     },
     {
       id: 3,
       nombre: "Haroldo",
       apellido: "Von Schnitzel",
       correo: "haroldopataki@example.com",
-      fecha_nacimiento: "1977-12-12",
+      fecha_de_nacimiento: "1977-12-12",
     },
     {
       id: 4,
       nombre: "Trixie",
       apellido: "Pumpernickel",
       correo: "trixiebubble@example.com",
-      fecha_nacimiento: "1988-03-09",
+      fecha_de_nacimiento: "1988-03-09",
     },
     {
       id: 5,
       nombre: "Buford T.",
       apellido: "McGiggles",
       correo: "bufordcornbread@example.com",
-      fecha_nacimiento: "1982-05-15",
+      fecha_de_nacimiento: "1982-05-15",
     },
   ]);
 });
