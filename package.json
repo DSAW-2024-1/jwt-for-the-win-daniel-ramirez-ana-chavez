@@ -1,0 +1,23 @@
+{
+  "name": "jwt-for-the-win-daniel-ramirez-ana-chavez",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ajKCO3Oe)\r # Desarrollo de Aplicaciones Web\r ## Daniel Ramirez & Ana María Chaves Pérez\r ### Universidad de La Sabana\r #### 2024 - I",
+  "main": "server.js",
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cookies-parser": "^1.2.0",
+    "express": "^4.19.2",
+    "faker": "^6.6.6",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.0"
+  }
+}
