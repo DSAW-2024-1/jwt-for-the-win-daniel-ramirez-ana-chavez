@@ -31,7 +31,9 @@ app.post("/login", (req, res) => {
     });
   }
 });
+
 const verificacion = express.Router();
+
 verificacion.use((req, res, next) => {
   const token = req.headers["x-access-token"] || req.headers["authorization"];
 
